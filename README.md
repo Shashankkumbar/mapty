@@ -12,3 +12,4 @@ Input values either selecting running or cycling.
 Workout stats is shown on map at exact location.
 
 Workouts are also stored using local storage.
+
